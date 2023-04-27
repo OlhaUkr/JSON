@@ -1,6 +1,5 @@
-terminal
-git
-pastman
-QA theory
-SDLC
-Python
+{
+  "programming": ["Java", "Python", "JavaScript"],
+  "testing": ["Manual Testing", "Automated Testing", "Performance Testing"],
+  "tools": ["JIRA", "Selenium", "Postman"]
+}
