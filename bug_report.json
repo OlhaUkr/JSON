@@ -1,1 +1,15 @@
-
+{
+"bug_title": "Error when clicking submit button",
+"bug_description": "When clicking the submit button on the contact form, an error message is displayed and the form does not submit.",
+"bug_severity": "medium",
+"steps_to_reproduce": [
+"Navigate to the contact page",
+"Fill in the required fields on the form",
+"Click the submit button"
+],
+"expected_result": "Form should submit successfully and a confirmation message should be displayed",
+"actual_result": "Error message is displayed and form does not submit",
+"browser": "Chrome",
+"os": "Windows 10",
+"assigned_to": "Jane Smith"
+}
